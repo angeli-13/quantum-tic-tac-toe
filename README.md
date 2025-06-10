@@ -32,3 +32,6 @@ Run the Game:
 python quantum_ttt-gui.py
 ```
 Enjoy the quantum twists!
+
+Additional Sources: 
+[MathwithBadDrawings](https://mathwithbaddrawings.com/wp-content/uploads/2020/10/Game-19-Quantum-Tic-Tac-Toe.pdf)

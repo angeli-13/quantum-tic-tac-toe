@@ -1,5 +1,5 @@
 # Quantum Tic-Tac-Toe
-This is a fun twist on the game Tic-Tac-Toe that includes concepts from quantum mechanics! Play against a friend!
+This is a fun twist on the game Tic-Tac-Toe that includes concepts from quantum mechanics! Play against a friend! - made exclusively for MYCamp at Yuan Ze University
 
 ## How to Play
 Quantum Tic-Tac-Toe plays like the traditional game, but with some exciting quantum rules:

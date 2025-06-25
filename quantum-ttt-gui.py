@@ -220,7 +220,7 @@ class QuantumTicTacToe:
             if current_hover_index != -1 and self.board[current_hover_index] is None:
                 x1, y1, x2, y2, _, _ = self.get_cell_coords(current_hover_index)
                 self.board_drawing_canvas.create_rectangle(x1, y1, x2, y2,
-                                                           fill=self.hover_overlay_color, stipple="50", outline="",
+                                                           fill=self.hover_overlay_color, stipple="gray50", outline="",
                                                            tags=f"hover_rect_{current_hover_index}")
                 # Ensure hover is below numbers/particles but above cell background
                 self.board_drawing_canvas.tag_lower(f"hover_rect_{current_hover_index}", f"cell_{current_hover_index}_number")
